@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/trajectoryError.dir/trajectoryError.cpp.o  -o trajectoryError  -Wl,-rpath,/usr/local/lib /usr/local/lib/libpangolin.so -lfmt -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lEGL -lSM -lICE -lX11 -lrt -lpthread -lOpenGL -lGLX -lGLU -lGLEW -lEGL -lSM -lICE -lX11 -ljpeg -llz4 
